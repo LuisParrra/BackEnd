@@ -27,7 +27,7 @@ console.log(total);
  let header ="Template String";
  let html_template = `<h2>${header}</h2>`
  console.log(html_template);
-console.log("\n---espacioooo---\n\n")
+
  //otro tamplate de HTML
 let tags = ["Template String","JavaScript","ES6"];
 for(const tag of tags){
