@@ -1,5 +1,6 @@
 import './style.css'
-import "./base/01-const.let"
+//import "./base/01-const.let"
+import "./base/02-templateString"
 
 
 
